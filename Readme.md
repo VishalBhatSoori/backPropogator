@@ -1,6 +1,7 @@
 <div align="center">
   <img src="assets/image.png" alt="chess pawn" height="150" />
 </div> 
+
 # Backpropagator
 
 **Backpropagator** project is a project made by me and my friend for understanding how backpropagation works by building a computational graph and automating the chain rule from the ground up.
